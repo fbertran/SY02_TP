@@ -1,2 +1,2 @@
-# SY02_TP_2
+# SY02_TP
 Repository for computer activities for the course SY02
